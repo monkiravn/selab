@@ -18,6 +18,12 @@ Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deseru
   include list.html
   data="members"
   component="portrait"
+  filters="role: chunhiem"
+%}
+{%
+  include list.html
+  data="members"
+  component="portrait"
   filters="role: pi"
 %}
 {%
@@ -25,12 +31,6 @@ Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deseru
   data="members"
   component="portrait"
   filters="role: phd"
-%}
-{%
-  include list.html
-  data="members"
-  component="portrait"
-  filters="role: programmer"
 %}
 {:.center}
 

@@ -1,11 +1,10 @@
 ---
-name: Nguyễn Quốc Minh
+name: Nguyen Quoc Minh
 image: images/thayMinh.png
 description: Phó Trưởng Bộ môn Hệ thống điện, Viện Điện, Đại học Bách Khoa Hà Nội
-role: Chủ nhiệm lab
+role: chunhiem
 aliases:
-  - A. Chovie
-  - A Chovie
+
 links:
   home-page: https://see.hust.edu.vn/nqminh
   email: minh.nguyenquoc@hust.edu.vn
