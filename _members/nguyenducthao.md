@@ -1,6 +1,6 @@
 ---
 name: Nguyễn Đức Thảo
-image: images/NguyenDucThao.jpg
+image: images/NguyenDucThao.png
 description: Thành viên
 role: thanhvien7
 aliases:
