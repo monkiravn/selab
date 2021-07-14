@@ -1,17 +1,17 @@
 ---
-name: Anne Chovie
-image: images/member.jpg
+name: Nguyễn Quốc Minh
+image: images/thayMinh.jpg
 description: Bark Ops Engineer
-role: programmer
+role: Chủ nhiệm lab
 aliases:
   - A. Chovie
   - A Chovie
 links:
-  home-page: annechovie.com
-  email: anne@chovie.com
-  github: anne-chovie
+  home-page: https://see.hust.edu.vn/nqminh
+  email: minh.nguyenquoc@hust.edu.vn
+  #github: anne-chovie
 ---
 
-Anne is a good dog.
-She studied at the University of Good Dogs.
-She likes pets, walkies, and treats.
+Tiến sĩ, chuyên ngành kỹ thuật điện, The University of Texas at Arlington, Texas, USA, 2016
+Thạc sĩ, chuyên ngành kỹ thuật điện, Đại học Bách Khoa Hà Nội, 2009
+Kỹ sư, chuyên ngành hệ thống điện, Đại học Bách Khoa Hà Nội, 2007
