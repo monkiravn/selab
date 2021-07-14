@@ -2,14 +2,13 @@
 name: Nguyễn Đăng Tiến
 image: images/NguyenDangTien.jpg
 description: Thành viên
-role: thanhvien
+role: thanhvien1
 group: alum
 aliases:
   - Tien-Nguyen Dang
 links:
-  home-page: fb.com/tienkira1
+  home-page: https://fb.com/tienkira1
   email: tien.nd174260@sis.hust.edu.vn
-  facbook: tienkira1
   github: monkiravn
 ---
 
