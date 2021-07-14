@@ -64,6 +64,10 @@ Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deseru
 %}
 {:.center}
 
+
+
+{% include section.html %}
+
 ## Funding
 
 Our work is made possible by funding from several organizations.
