@@ -1,7 +1,7 @@
 ---
 name: Nguyễn Quốc Minh
-image: images/thayMinh.jpg
-description: Bark Ops Engineer
+image: images/thayMinh.png
+description: Phó Trưởng Bộ môn Hệ thống điện, Viện Điện, Đại học Bách Khoa Hà Nội
 role: Chủ nhiệm lab
 aliases:
   - A. Chovie
@@ -13,5 +13,7 @@ links:
 ---
 
 Tiến sĩ, chuyên ngành kỹ thuật điện, The University of Texas at Arlington, Texas, USA, 2016
+
 Thạc sĩ, chuyên ngành kỹ thuật điện, Đại học Bách Khoa Hà Nội, 2009
+
 Kỹ sư, chuyên ngành hệ thống điện, Đại học Bách Khoa Hà Nội, 2007
