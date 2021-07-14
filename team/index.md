@@ -44,6 +44,24 @@ Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deseru
   component="portrait"
   filters="role: thanhvien3"
 %}
+{%
+  include list.html
+  data="members"
+  component="portrait"
+  filters="role: thanhvien4"
+%}
+{%
+  include list.html
+  data="members"
+  component="portrait"
+  filters="role: thanhvien5"
+%}
+{%
+  include list.html
+  data="members"
+  component="portrait"
+  filters="role: thanhvien6"
+%}
 {:.center}
 
 {% include section.html background="images/banner.jpg" dark=true%}
