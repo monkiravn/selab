@@ -90,28 +90,24 @@ Our work is made possible by funding from several organizations.
   style="square"
 
   image1="images/funding1.jpg"
-  link1="https://nasa.gov/"
+  link1="/images/funding1.jpg"
   tooltip1="Cool Foundation"
 
   image2="images/funding2.jpg"
-  link2="https://nasa.gov/"
+  link2="/images/funding2.jpg"
   tooltip2="Cool Institute"
 
   image3="images/funding3.jpg"
-  link3="https://nasa.gov/"
+  link3="/images/funding3.jpg"
   tooltip3="Cool Initiative"
 
   image4="images/funding4.jpg"
-  link4="https://nasa.gov/"
+  link4="/images/funding4.jpg"
   tooltip4="Cool Foundation"
 
-  image5="images/funding5.jpg"
-  link5="https://nasa.gov/"
+  image5="images/funding6.jpg"
+  link5="/images/funding6.jpg"
   tooltip5="Cool Institute"
-
-  image6="images/funding6.jpg"
-  link6="https://nasa.gov/"
-  tooltip6="Cool Initiative"
 
   image6="images/funding7.jpg"
   link6="https://nasa.gov/"
@@ -122,6 +118,10 @@ Our work is made possible by funding from several organizations.
   tooltip6="Cool Initiative"
 
   image6="images/funding9.jpg"
+  link6="https://nasa.gov/"
+  tooltip6="Cool Initiative"
+
+  image6="images/funding10.jpg"
   link6="https://nasa.gov/"
   tooltip6="Cool Initiative"
 %}
