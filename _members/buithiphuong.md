@@ -7,8 +7,8 @@ aliases:
 
 links:
   home-page: https://fb.com/heogau3110btp
-  email: upton@ogoode.com
-  twitter: uptonogoode
+  email: phuong.bt174121@sis.hust.edu.vn
+  #twitter: uptonogoode
 ---
 
 Học chuyên ngành Kỹ thuật điện.

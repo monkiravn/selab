@@ -32,6 +32,18 @@ Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deseru
   component="portrait"
   filters="role: thanhvien1"
 %}
+{%
+  include list.html
+  data="members"
+  component="portrait"
+  filters="role: thanhvien2"
+%}
+{%
+  include list.html
+  data="members"
+  component="portrait"
+  filters="role: thanhvien3"
+%}
 {:.center}
 
 {% include section.html background="images/banner.jpg" dark=true%}

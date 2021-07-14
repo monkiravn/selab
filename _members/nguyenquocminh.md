@@ -21,7 +21,6 @@ Kỹ sư, chuyên ngành hệ thống điện, Đại học Bách Khoa Hà Nội
 Hướng nghiên cứu: 
   
   - Bảo vệ và điều khiển hệ thống điện.
-
   - SCADA và tự động hóa trong hệ thống điện.
   - Ứng dụng AI trong lưới điện thông minh.
   - Truyền tải điện không dây.
